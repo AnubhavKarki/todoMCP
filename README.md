@@ -1,4 +1,3 @@
-```markdown
 # FastAPI Todo Application
 
 A modern RESTful API for managing todo items built with FastAPI and SQLite. This application provides a complete CRUD interface for todo management with integrated Model Context Protocol (MCP) support for AI-powered interactions.
